@@ -10,4 +10,3 @@ class EmployeeAdmin(admin.ModelAdmin):
 admin.site.register(Employee,EmployeeAdmin)
 
 
-#sdfghm
